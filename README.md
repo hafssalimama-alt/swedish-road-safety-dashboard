@@ -7,16 +7,6 @@
 
 An interactive data dashboard analysing **5 years of official Swedish road accident statistics (2020–2024)** from Transport Analysis (Trafa), combined with a **65-year fatality trend (1960–2024)** tracking Sweden's Vision Zero progress.
 
-
-> 🔗 **[View Live Dashboard](# 🇸🇪 Swedish Road Safety Dashboard
-
-[![Streamlit App](https://img.shields.io/badge/Live_Demo-Streamlit-red?logo=streamlit)](REPLACE_WITH_YOUR_STREAMLIT_URL)
-[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
-[![Pandas](https://img.shields.io/badge/Pandas-2.0+-green?logo=pandas)](https://pandas.pydata.org)
-[![Plotly](https://img.shields.io/badge/Plotly-Interactive_Charts-purple?logo=plotly)](https://plotly.com)
-
-An interactive data dashboard analysing **5 years of official Swedish road accident statistics (2020–2024)** from Transport Analysis (Trafa), combined with a **65-year fatality trend (1960–2024)** tracking Sweden's Vision Zero progress.
-
 > 🔗 **[View Live Dashboard](https://swedish-road-safety-dashboard-n.streamlit.app/)**
 
 ---
