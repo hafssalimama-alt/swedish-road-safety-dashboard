@@ -1,6 +1,6 @@
 # 🇸🇪 Swedish Road Safety Dashboard
 
-[![Streamlit App](https://img.shields.io/badge/Live_Demo-Streamlit-red?logo=streamlit)](REPLACE_WITH_YOUR_STREAMLIT_URL)
+[![Streamlit App](https://img.shields.io/badge/Live_Demo-Streamlit-red?logo=streamlit)](https://swedish-road-safety-dashboard-n.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
 [![Pandas](https://img.shields.io/badge/Pandas-2.0+-green?logo=pandas)](https://pandas.pydata.org)
 [![Plotly](https://img.shields.io/badge/Plotly-Interactive_Charts-purple?logo=plotly)](https://plotly.com)
@@ -15,7 +15,10 @@ An interactive data dashboard analysing **5 years of official Swedish road accid
 
 Sweden's **Vision Zero** policy, launched in 1997, aims to eliminate all road fatalities and serious injuries. This dashboard tracks progress toward that goal using official government statistics, making the data accessible and interactive for anyone interested in road safety trends.
 
-This project was developed alongside crash safety research at **Chalmers University of Technology**, where I work with large-scale accident datasets to study injury severity and road safety outcomes.
+This personal project was inspired by my internship at **Chalmers University of Technology**, 
+where I work with large-scale accident datasets to study injury severity and road safety outcomes. 
+I built this dashboard independently to apply those skills to Swedish national data and make 
+road safety trends accessible to everyone.
 
 ---
 
@@ -130,11 +133,6 @@ Each file contains 32 sheets with detailed breakdowns by:
 - Add age and gender breakdown analysis
 - Include population-adjusted accident rates per county
 - Add predictive modelling for accident risk
-- Expand dataset to include pre-2020 detailed data)**
-
----
-
-
-
-
 - Expand dataset to include pre-2020 detailed data
+
+
